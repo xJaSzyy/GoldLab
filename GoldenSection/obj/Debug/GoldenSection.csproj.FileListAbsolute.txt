@@ -1,0 +1,13 @@
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.csproj.AssemblyReference.cache
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.Properties.Resources.resources
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.csproj.GenerateResource.cache
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.csproj.CoreCompileInputs.cache
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\bin\Debug\GoldenSection.exe.config
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\bin\Debug\GoldenSection.exe
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\bin\Debug\GoldenSection.pdb
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.csproj.CopyComplete
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.exe
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.pdb
+C:\Users\Степан\Desktop\main\codes\GoldenSection\GoldenSection\obj\Debug\GoldenSection.Form1.resources
